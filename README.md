@@ -14,6 +14,7 @@ This project takes raw e-commerce data, cleans it, organizes it into a normalize
 
 Dataset
 The project uses the Olist E-Commerce Dataset from Kaggle. It includes:
+
 Customers (olist_customers_dataset.csv)
 Orders (olist_orders_dataset.csv)
 Order Items (olist_order_items_dataset.csv)
